@@ -1,4 +1,4 @@
-# Fairness in Machine Learning
+# Fairness evaluation of an ML model in the treatment of Mental Health
 
 # Fairness Assessment in Machine Learning
 This repository contains code and analysis for evaluating fairness in a machine learning model for psychiatric diagnosis. The focus is on assessing potential biases in the model's predictions across different demographic groups, particularly considering the intersectionality of race and gender.
