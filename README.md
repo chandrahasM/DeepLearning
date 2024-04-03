@@ -10,6 +10,11 @@ Ensuring fairness in machine learning systems is crucial, as biases in the train
 To quantify fairness, we calculate and compare performance metrics across different demographic groups. Specifically, we focus on the False Positive Rate (FPR) and True Positive Rate (TPR) metrics.
 
 # Fairness Metrics
+On a broader level, Fairness metrics are:
+Independence: Outcomes should be evenly distributed between subgroups
+Separation: Errors should be evenly distributed between subgroups
+Sufficiency: Given a prediction, an individual has an equal likelihood of belonging to any subgroup
+
 The fairness metrics used in this analysis are:
 
 False Positive Rate (FPR): The rate at which individuals are incorrectly classified as positive (e.g., diagnosed with schizophrenia when they have an affective disorder).
